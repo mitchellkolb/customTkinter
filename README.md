@@ -76,7 +76,7 @@ $ python3 File_name
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
 Made with :heart: by <a href="https://github.com/Mitchell-kolb" target="_blank">Mitchell Kolb</a>
