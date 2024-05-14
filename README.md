@@ -3,19 +3,19 @@
 <h1 align="center">CustomTkinter</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Mitchell-kolb/customTkinter?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mitchellkolb/customTkinter?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Mitchell-kolb/customTkinter?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mitchellkolb/customTkinter?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Mitchell-kolb/customTkinter?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mitchellkolb/customTkinter?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/Mitchell-kolb/customTkinter?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/mitchellkolb/customTkinter?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/customtkinter-tutorial?color=56BEB8" /> -->
 
   <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/customtkinter-tutorial?color=56BEB8" /> -->
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/Mitchell-kolb/customTkinter?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/mitchellkolb/customTkinter?color=56BEB8" />
 </p>
 
 <!-- Status -->
@@ -64,7 +64,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/Mitchell-kolb/customTkinter
+$ git clone https://github.com/mitchellkolb/customTkinter
 
 # Access
 $ cd customTkinter
@@ -79,7 +79,7 @@ $ python3 File_name
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
-Made with :heart: by <a href="https://github.com/Mitchell-kolb" target="_blank">Mitchell Kolb</a>
+Made with :heart: by <a href="https://github.com/mitchellkolb" target="_blank">Mitchell Kolb</a>
 
 &#xa0;
 
